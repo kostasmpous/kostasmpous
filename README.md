@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm a Business Analyst at Deloitte Digital
+
+  🔭 I’m currently working on: **Salesforce** and **Zuora Platform**
+  🌱 I’m currently learning: **Data Science** and **Data Analysis**
+  💬 Ask me about : Salesforce (Admin/App building/Apex), Zuora(Billing Platform), Python (Numpy/Pandas/Seaborn)
+  
 <!--
 **kostasmpous/kostasmpous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
