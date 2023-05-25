@@ -1,6 +1,7 @@
-### Hi there 👋
 
-I'm a Business Analyst at Deloitte Digital
+![header]([https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Hello%20there&an****imation=fadeIn](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&text=Hello%20there&animation=fadeIn))
+
+**I'm a Business Analyst at Deloitte Digital**
 
   🔭 I’m currently working on: **Salesforce** and **Zuora Platform**
   🌱 I’m currently learning: **Data Science** and **Data Analysis**
