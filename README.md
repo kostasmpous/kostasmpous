@@ -16,7 +16,7 @@
   <p align="center">💬 Ask me about : Salesforce (Admin/App building/Apex), Python (Numpy/Pandas/Seaborn)</p>
   <p align="center">📫 Let's connect on :</p>
   <p align="center"><a href="https://www.linkedin.com/in/konstantinos-bousinis-96087411a/?originalSubdomain=gr"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" width="40" height="40"/></a>
-<a href="https://www.linkedin.com/in/konstantinos-bousinis-96087411a/?originalSubdomain=gr"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" width="40" height="40"/></a>
+<a href="kostasmpous@gmail.com"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" width="40" height="40"/></a>
   <hr>
  <p align="center">🚀 Some tools I've used and learning:</p>
 <p align="center" dir="auto">
