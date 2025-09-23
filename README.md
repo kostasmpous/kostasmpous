@@ -8,7 +8,7 @@
 
 <p align="center">
   🔭 I’m currently working on: <b>Salesforce Development</b> and <b>Data Engineering</b></p>
- <p align="center"> 🌱 I’m currently learning: <b>Django, FastAPI</b> & <b>Cloud-based Data Pipelines</b></p>
+ <p align="center"> 🌱 I’m currently learning: <b>Java Spring </b> & <b>Cloud-based Data Pipelines</b></p>
  
 <p align="center">💡 Interested in: AIOps, MLOps, Cloud (AWS/Azure/GCP), ML Deployment</p>
 <p align="center">📌 Exploring: Kaggle, System Administration, Large-scale Data Architectures</p>
