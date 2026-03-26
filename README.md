@@ -3,7 +3,7 @@
 </p>
 <hr>
 <p align="center">
-  <b>I'm a Salesforce Developer at Deloitte Digital 👨🏻‍💻</b>
+  <b>I'm a Software Developer at Peak & Peak 👨🏻‍💻</b>
 </p>
 
 <p align="center">
